@@ -1,0 +1,1 @@
+WaveHub is a minimal owner-controlled smart contract for creating and funding reward cycles called Waves. Each Wave stores an ETH pool, start and end times, and is created only by the governor. It enables secure scheduling of reward windows while leaving payout logic to downstream contracts.
